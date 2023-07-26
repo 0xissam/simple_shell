@@ -1,4 +1,4 @@
 simple shell
 Authors:
-AISSAM TAHIRI &&
+AISSAM TAHIRI -
 OLUWADEMILADE ABATAN
