@@ -1,3 +1,5 @@
+#include "header.h"
+
 /**
  * b_cd - cd
  * @d: data structinput
